@@ -4,7 +4,10 @@
 
 The spinner in your address bar
 
-<img src="./assets/example1.gif" />
+<img src="./assets/example1.gif" width="500" />
+<img src="./assets/example2.gif" width="500" />
+<img src="./assets/example3.gif" width="500" />
+<img src="./assets/example4.gif" width="500" />
 
 ## Get started
 
