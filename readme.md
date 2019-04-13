@@ -1,5 +1,7 @@
 # url-spinner
 
+[![npm version](https://badge.fury.io/js/url-spinner.svg)](https://badge.fury.io/js/url-spinner)
+
 The spinner in your address bar
 
 <img src="./assets/example1.gif" />
