@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/url-spinner.svg)](https://badge.fury.io/js/url-spinner)
 
-The spinner in your address bar
+The spinner in your address bar. Inspired by http://wavyurl.com
 
 <img src="./assets/example1.gif" width="500" />
 <img src="./assets/example2.gif" width="500" />
