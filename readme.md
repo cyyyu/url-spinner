@@ -28,7 +28,7 @@ const stopSpinning = startSpinning();
 setTimeout(stopSpinning, 3000);
 ```
 
-To stop spin automatically by 3s later
+To stop spinning automatically by 3s later
 
 ```javascript
 startSpinning({ duration: 3000 });
