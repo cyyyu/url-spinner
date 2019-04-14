@@ -47,7 +47,7 @@ startSpinning({
 
 ## Apis
 
-`startSpining(options: Options)`
+`startSpining(options: UrlSpinnerOptions)`
 
 ```typescript
 export interface UrlSpinnerOptions {
