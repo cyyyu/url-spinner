@@ -1,6 +1,6 @@
 {
   "name": "url-spinner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The spinner in your address bar",
   "main": "index.js",
   "scripts": {
