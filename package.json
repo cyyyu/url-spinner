@@ -6,6 +6,10 @@
   "scripts": {
     "build": "tsc --build tsconfig.json"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cyyyu/url-spinner.git"
+  },
   "keywords": [
     "loading",
     "spinner"
